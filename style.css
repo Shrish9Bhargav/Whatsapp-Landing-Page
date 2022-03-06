@@ -55,4 +55,12 @@ body{
     font-size: 18px;
 }
 
+.title_two{
+    width: 40%;
+    margin: auto;
+}
 
+.title_two img{
+    width: 80%;
+    margin: 10%;
+}
