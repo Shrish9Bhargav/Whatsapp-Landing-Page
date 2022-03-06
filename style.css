@@ -1,12 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     font-family: 'Roboto', sans-serif;
 }
 
 
 
-.container{
-    width: 1400x;
-}
+
 
 .row{
     display: flex;
@@ -16,9 +19,8 @@ body{
 
 
 .pageStats{
-    padding: 10px 0px;
     background-color: #128C7E;
-    padding: 30px 300px;
+    padding: 30px;
     
 }
 
