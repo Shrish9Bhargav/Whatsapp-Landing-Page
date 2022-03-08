@@ -55,12 +55,21 @@ body{
     font-size: 18px;
 }
 
+.title_one a{
+    text-decoration: none;
+    color: rgb(134, 133, 133);
+    line-height: 1.4;
+}
 .title_two{
-    width: 40%;
+    width: 30%;
     margin: auto;
 }
 
+ .hen{
+     color: rgb(129, 127, 127);
+ }
 .title_two img{
-    width: 80%;
-    margin: 10%;
+    width: 304px;
+    display:inline-block;
 }
+
